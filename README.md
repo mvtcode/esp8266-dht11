@@ -6,4 +6,4 @@ See demo [video](https://www.facebook.com/mvt.hp.star/videos/1424498864427770)
 
 ## Auth
 
-Fb: (Mạc Tân)[https://www.facebook.com/mvt.hp.star]
+Fb: [Mạc Tân](https://www.facebook.com/mvt.hp.star)
